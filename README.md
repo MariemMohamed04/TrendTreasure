@@ -39,7 +39,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MariemMohamed04/trend-treasure.git
+   git clone https://github.com/MariemMohamed04/TrendTreasure.git
    cd trend-treasure
    
 2. Install dependencies:
