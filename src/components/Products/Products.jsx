@@ -6,7 +6,7 @@ import Product from '../Product/Product.jsx';
 export default function Products({ products }) {
   
   return (
-    <div className="row bg-danger">
+    <div className="row">
       {products.map((product, index) => (
         <Product product={product} key={index} />
       ))}

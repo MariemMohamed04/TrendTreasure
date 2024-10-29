@@ -1,0 +1,10 @@
+.navbar-brand {
+  padding-right: 0px;
+  margin-right: 0px;
+}
+
+
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+  color: red;
+}
+

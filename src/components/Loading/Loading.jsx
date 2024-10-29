@@ -7,7 +7,7 @@ export default function Loading() {
   useEffect(() =>{}, []);
   return (
     <>
-  <div className="text-center py-5 bg-danger">
+  <div className="text-center py-5">
       <i className=" fa fa-spinner fa-5x fa-spin"></i>
     </div>
     </>
