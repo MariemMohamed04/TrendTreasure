@@ -3,6 +3,7 @@
 ## Project Overview
 
 **Trend Treasure** is an e-commerce website designed to showcase various products across categories such as men's clothing, women's clothing, jewelry, and electronics. The website includes several core features, including product filtering by category and pagination for smooth browsing through a large product catalog.
+- Check website from here https://trend-treasure-omega.vercel.app
 
 ## Features
 
@@ -40,7 +41,7 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/MariemMohamed04/TrendTreasure.git
-   cd trend-treasure
+   cd TrendTreasure
    
 2. Install dependencies:
    ```bash
